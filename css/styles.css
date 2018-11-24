@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: black;
 }
 
 h1 {
@@ -7,7 +7,7 @@ h1 {
 }
 
 .friend {
-    background-color: bisque;
+    background-color: rgba(252, 252, 252, 0.467);
 }
 
 h3{
