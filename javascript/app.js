@@ -1,3 +1,13 @@
+/*
+
+Git Push:
+
+git remote add origin https://github.com/alexsjcho/ninety-nine-line-code.git
+git push -u origin master
+
+*/
+
+
 let friends = [["Joe", "Jack", "Jill", "Jamie", "Jason"], 
 ["you are awesome, awesome, awesome!"]];
 
@@ -5,6 +15,7 @@ for (i = 0; i < friends.length; i++) {
     // for each iteration of this loop the next runs
     // you can put something here if you want
     for(n = 0; n>100; n--) {
+        
     // put what happens in this loop
     }
     // things in this place would happen when the second loop finishes
